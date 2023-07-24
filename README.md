@@ -1,5 +1,6 @@
 # Oracle_SQL
 ## Formação de SQL Alura  Oracle One
+https://cursos.alura.com.br/user/phabymandalas/degree-oracle-mysql-3983/certificate
 
 # Anotações do Curso 1: SQL com MySQL: manipule e consulte dados.
 ### https://docs.google.com/document/d/19DQh2gstWE-5WbCaOx4oyKYPdORzd-8mNeqP3-pfOA8/edit?usp=sharing 
@@ -13,3 +14,16 @@ https://cursos.alura.com.br/user/phabymandalas/course/mysql-consultas-sql/certif
 
 # Anotações do Curso 3: Comandos DML: manipulação de dados com SQL
 ### https://docs.google.com/document/d/1USjdvXWeHoHPVlenQ-qRDqB0R_5wSeOkn8pLAUh3-Dc/edit?usp=sharing
+## Certificado de Conclusão:
+https://cursos.alura.com.br/user/phabymandalas/course/mysql-dml-manipulacao-de-dados/certificate
+
+# Anotações do curso 4: Procedures SQL: executando código no MySQL
+### https://docs.google.com/document/d/1yqnyUORGhrxD1ahbN403Y4_NYfZY4t7js3FHjwMGTP0/edit?usp=sharing
+## ## Certificado de Conclusão:
+https://cursos.alura.com.br/user/phabymandalas/course/mysql-procedures/certificate
+
+# Anotações do curso 5: Administração do MySQL: segurança e otimização do banco
+### https://docs.google.com/document/d/14uGcbcgiuZcBQR24L_SnZflucfTwLAEafXBbI-mBpZc/edit?usp=sharing
+## Certificado de Conclusão:
+https://cursos.alura.com.br/user/phabymandalas/course/mysql-dba-administracao/certificate
+
